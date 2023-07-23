@@ -61,7 +61,8 @@ const SignInModal = ({
             providers={[
               'notion',
               'github',
-              // "google", "facebook",
+              "google", 
+              "facebook",
               // "twitter",
             ]}
             appearance={{
